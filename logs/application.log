@@ -1,4 +1,0 @@
-2026-11-20 12:45:49,844 | INFO | Calculated total: price=100, quantity=2, total=200
-2026-11-20 12:45:49,844 | INFO | Calculated discount: total=200, discount=10%, final_amount=180.0
-2026-11-20 12:45:49,994 | INFO | Calculated discount: total=200, discount=10%, final_amount=180.0
-2026-11-20 12:45:49,994 | INFO | Calculated total: price=100, quantity=2, total=200
