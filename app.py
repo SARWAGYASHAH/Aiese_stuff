@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 
 def calculate_total(price, quantity):
-    total = price + quantity
+    total = price * quantity
     logger.info("Calculated total: price=%s, quantity=%s, total=%s", price, quantity, total)
     return total
 
